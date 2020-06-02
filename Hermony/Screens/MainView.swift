@@ -116,7 +116,7 @@ struct MainView: View {
                 .padding()
             }
             .animation(.linear)
-            .navigationBarTitle("Harmolor")
+            .navigationBarTitle("Hermony")
             .navigationViewStyle(DoubleColumnNavigationViewStyle())
         }
     }

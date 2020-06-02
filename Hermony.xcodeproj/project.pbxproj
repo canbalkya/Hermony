@@ -17,7 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		3AAB158C24869ACA00AF3ADF /* Harmolor.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Harmolor.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		3AAB158C24869ACA00AF3ADF /* Hermony.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Hermony.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3AAB158F24869ACA00AF3ADF /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		3AAB159124869ACA00AF3ADF /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		3AAB159324869ACA00AF3ADF /* MainView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainView.swift; sourceTree = "<group>"; };
@@ -42,7 +42,7 @@
 		3AAB158324869ACA00AF3ADF = {
 			isa = PBXGroup;
 			children = (
-				3AAB158E24869ACA00AF3ADF /* Harmolor */,
+				3AAB158E24869ACA00AF3ADF /* Hermony */,
 				3AAB158D24869ACA00AF3ADF /* Products */,
 			);
 			sourceTree = "<group>";
@@ -50,12 +50,12 @@
 		3AAB158D24869ACA00AF3ADF /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				3AAB158C24869ACA00AF3ADF /* Harmolor.app */,
+				3AAB158C24869ACA00AF3ADF /* Hermony.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		3AAB158E24869ACA00AF3ADF /* Harmolor */ = {
+		3AAB158E24869ACA00AF3ADF /* Hermony */ = {
 			isa = PBXGroup;
 			children = (
 				3AAB15A52486E3A400AF3ADF /* Support */,
@@ -63,7 +63,7 @@
 				3AAB15A72486E3D600AF3ADF /* Utilities */,
 				3AAB159724869AD100AF3ADF /* Preview Content */,
 			);
-			path = Harmolor;
+			path = Hermony;
 			sourceTree = "<group>";
 		};
 		3AAB159724869AD100AF3ADF /* Preview Content */ = {
@@ -105,9 +105,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		3AAB158B24869ACA00AF3ADF /* Harmolor */ = {
+		3AAB158B24869ACA00AF3ADF /* Hermony */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 3AAB15A024869AD100AF3ADF /* Build configuration list for PBXNativeTarget "Harmolor" */;
+			buildConfigurationList = 3AAB15A024869AD100AF3ADF /* Build configuration list for PBXNativeTarget "Hermony" */;
 			buildPhases = (
 				3AAB158824869ACA00AF3ADF /* Sources */,
 				3AAB158924869ACA00AF3ADF /* Frameworks */,
@@ -117,9 +117,9 @@
 			);
 			dependencies = (
 			);
-			name = Harmolor;
+			name = Hermony;
 			productName = Harmolor;
-			productReference = 3AAB158C24869ACA00AF3ADF /* Harmolor.app */;
+			productReference = 3AAB158C24869ACA00AF3ADF /* Hermony.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -137,7 +137,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 3AAB158724869ACA00AF3ADF /* Build configuration list for PBXProject "Harmolor" */;
+			buildConfigurationList = 3AAB158724869ACA00AF3ADF /* Build configuration list for PBXProject "Hermony" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -150,7 +150,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				3AAB158B24869ACA00AF3ADF /* Harmolor */,
+				3AAB158B24869ACA00AF3ADF /* Hermony */,
 			);
 		};
 /* End PBXProject section */
@@ -313,15 +313,15 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_ASSET_PATHS = "\"Harmolor/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"Hermony/Preview Content\"";
 				DEVELOPMENT_TEAM = 84X92G2X4P;
 				ENABLE_PREVIEWS = YES;
-				INFOPLIST_FILE = Harmolor/Support/Info.plist;
+				INFOPLIST_FILE = Hermony/Support/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "Can-Balkaya.Harmolor";
+				PRODUCT_BUNDLE_IDENTIFIER = "Can-Balkaya.Hermony";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = 1;
@@ -333,15 +333,15 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_ASSET_PATHS = "\"Harmolor/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"Hermony/Preview Content\"";
 				DEVELOPMENT_TEAM = 84X92G2X4P;
 				ENABLE_PREVIEWS = YES;
-				INFOPLIST_FILE = Harmolor/Support/Info.plist;
+				INFOPLIST_FILE = Hermony/Support/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "Can-Balkaya.Harmolor";
+				PRODUCT_BUNDLE_IDENTIFIER = "Can-Balkaya.Hermony";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = 1;
@@ -351,7 +351,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		3AAB158724869ACA00AF3ADF /* Build configuration list for PBXProject "Harmolor" */ = {
+		3AAB158724869ACA00AF3ADF /* Build configuration list for PBXProject "Hermony" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				3AAB159E24869AD100AF3ADF /* Debug */,
@@ -360,7 +360,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		3AAB15A024869AD100AF3ADF /* Build configuration list for PBXNativeTarget "Harmolor" */ = {
+		3AAB15A024869AD100AF3ADF /* Build configuration list for PBXNativeTarget "Hermony" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				3AAB15A124869AD100AF3ADF /* Debug */,
